@@ -21,18 +21,6 @@ The agent engages the user in a conversational flow, gathering essential details
 - **python-dotenv**: For managing environment variables (e.g., API keys, model names).
 - **requests**: For making HTTP calls to the Gemini API.
 
-## 📁 Project Structure
-
--**insurance_agent/**
--**├── app/**
--**│ ├── main.py # Streamlit UI and chat flow logic**
--**│ ├── llm_service.py # Handles interaction with the GenAI model (Gemini API)**
--**│ └── products.py # Defines the catalog of insurance products**
--**├── .env # Environment variables** 
--**├── requirements.txt # Python dependencies**
--**└── README.md** 
-
-
 ## 🛠️ Setup Guide
 
 Follow these steps to get the Insurance Product Recommendation Agent running on your local machine.
