@@ -23,14 +23,14 @@ The agent engages the user in a conversational flow, gathering essential details
 
 ## 📁 Project Structure
 
-insurance_agent/
-├── app/
-│ ├── main.py # Streamlit UI and chat flow logic
-│ ├── llm_service.py # Handles interaction with the GenAI model (Gemini API)
-│ └── products.py # Defines the catalog of insurance products
-├── .env # Environment variables 
-├── requirements.txt # Python dependencies
-└── README.md 
+-**insurance_agent/**
+-**├── app/**
+-**│ ├── main.py # Streamlit UI and chat flow logic**
+-**│ ├── llm_service.py # Handles interaction with the GenAI model (Gemini API)**
+-**│ └── products.py # Defines the catalog of insurance products**
+-**├── .env # Environment variables** 
+-**├── requirements.txt # Python dependencies**
+-**└── README.md** 
 
 
 ## 🛠️ Setup Guide
